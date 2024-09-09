@@ -8,4 +8,8 @@ A simple and responsive music player built with **HTML**, **Tailwind CSS**, and 
 - 🎚️ Volume control and progress tracking.
 - 🖼️ Displays album art for each track.
 
+## How to Use:
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
 
