@@ -12,5 +12,5 @@ A simple and responsive music player built with **HTML**, **Tailwind CSS**, and 
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-2.Open the index.html and script.js files in your browser to use the music player..
+2.Open the index.html and script.js files in your browser to use the music player.
 
